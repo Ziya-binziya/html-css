@@ -1,0 +1,33 @@
+.c{
+    height:600px;
+    width: 32%;
+    background-color: plum;
+    float: left;
+    border: solid 4px white;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+img{
+    width:252px;
+    height:259px;
+    margin-left: 125px;
+    border-radius: 25px;
+    
+}
+h2{
+    text-align: center;
+}
+span{
+    color:aliceblue;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+h1{
+    text-align: center;
+    color:plum;
+}
+p{
+    line-height: 20px;
+}
